@@ -23,7 +23,10 @@ The goal of this project was to design and implement a digital guitar looper wit
 
 ## 📄 Documentation
 The detailed design process, including schematics, code snippets, and block diagrams, can be found here:  
-👉 [**Project Summary**](./E2_06_SDD_Poster.pdf)  
+👉 [**Project Summary**](./E2_06_SDD_Poster.pdf) 
+👉 [**Project Report**](./E2_06_Product_Specification_Final_signed.pdf)  
+👉 [**Final Design Review**](./E2_06_FDR.pdf)  
+
 
 Example source files and abstractions are included in this repository for reference and reproducibility.
 
